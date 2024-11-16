@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaef"
+  },
+  "name": "Mulund Runwal Greens PS",
+  "address": "Shop No. F-9, R Galleria, Runwal Greens, Mulund West, Mumbai - 400078",
+  "contact": {
+    "$numberLong": "7400050414"
+  },
+  "timings": "Everyday, 9AM - 11PM",
+  "end_time": "23",
+  "start_time": "9"
+},
+{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaf0"
+  },
+  "name": "Mulund Cypress Garden PC & PS",
+  "address": "Office No. 9, Golden Willows, Opp. Cypress Garden, Mumbai - 400080",
+  "contact": {
+    "$numberLong": "9136931664"
+  },
+  "timings": "Everyday, 9AM - 11PM"
+},
+{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaf1"
+  },
+  "name": "Vidyavihar PC",
+  "address": "Shop No. 3, Vasuki Building, Beside Somaiya Gate, Vidyavihar East, Mumbai - 400077",
+  "contact": {
+    "$numberLong": "9967451105"
+  },
+  "timings": "Everyday, 8AM - 11PM"
+},
+{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaf2"
+  },
+  "name": "Vidyavihar PS",
+  "address": "Shop No. 6, Surya House, Vidyavihar Station East, Near Somaiya College, Mumbai - 400086",
+  "contact": {
+    "$numberLong": "7710076437"
+  },
+  "timings": "Everyday, 8AM - 11PM"
+},
+{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaf3"
+  },
+  "name": "Powai PC & PS",
+  "address": "Shop No. 125, Galleria Mall, Hiranandani Gardens, Powai, Mumbai - 400076",
+  "contact": {
+    "$numberLong": "7715907694"
+  },
+  "timings": "Everyday, 9AM - 11PM"
+},
+{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaf4"
+  },
+  "name": "Kharghar PC & PS",
+  "address": "Sector No. 04, Bhoomi Towers, Shop No. 38, beside The J, Kharghar, Maharashtra 410210",
+  "contact": {
+    "$numberLong": "8828226595"
+  },
+  "timings": "Everyday, 10AM - 1AM"
+},
+{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaf5"
+  },
+  "name": "Thane Vasant Vihar PC & PS",
+  "address": "Office No. 16, Amrapali Arcade, Above Gaurav Sweets, Vasant Vihar, Thane - 400610",
+  "contact": {
+    "$numberLong": "7304907730"
+  },
+  "timings": "Everyday, 9AM - 11PM"
+},
+{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaf6"
+  },
+  "name": "Thane Station West PS",
+  "address": "Shop No. 2, Shreeji Ashish Building, Near Jagdish Book Depot, Thane Station West - 400601",
+  "contact": {
+    "$numberLong": "9136645034"
+  },
+  "timings": "Everyday, 8AM - 11PM"
+},
+{
+  "_id": {
+    "$oid": "6734398c0ab8ca6493eddaf7"
+  },
+  "name": "Dombivli PC & PS",
+  "address": "Shop No. 111-112, Janki Hari CHS, Phadke Rd, Dombivli East - 421201",
+  "contact": {
+    "$numberLong": "9136645034"
+  },
+  "timings": "Everyday, 8AM - 11PM"
+}]
